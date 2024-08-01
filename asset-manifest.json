@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sy_tmdb/static/css/main.09e3d5a6.css",
+    "main.js": "/sy_tmdb/static/js/main.1eb63ae1.js",
+    "index.html": "/sy_tmdb/index.html",
+    "main.09e3d5a6.css.map": "/sy_tmdb/static/css/main.09e3d5a6.css.map",
+    "main.1eb63ae1.js.map": "/sy_tmdb/static/js/main.1eb63ae1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09e3d5a6.css",
+    "static/js/main.1eb63ae1.js"
+  ]
+}
